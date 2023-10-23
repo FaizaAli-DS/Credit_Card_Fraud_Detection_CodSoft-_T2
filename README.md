@@ -3,7 +3,8 @@
 Credit card fraud detection is a crucial aspect of financial security and fraud prevention 
 in the modern banking and payment industry. It involves the use of technology and data analysis 
 techniques to identify and prevent fraudulent credit card transactions.
-![C_C_detection](https://github.com/FaizaAli-DS/Credit_Card_Fraud_Detection_CodSoft-_T2/assets/137332502/7e36d300-0e1b-4d0c-ad74-e59b64ecf212)
+
+![Fraud](https://github.com/FaizaAli-DS/Credit_Card_Fraud_Detection_CodSoft-_T2/assets/137332502/0c44a849-9068-4095-a2f9-c087907c442c)
 
 ## Importance: 
 Credit card fraud is a prevalent and costly issue for both financial institutions and cardholders. Detecting and preventing fraudulent transactions is essential to protect customers, reduce financial losses, and maintain trust in the payment system.
