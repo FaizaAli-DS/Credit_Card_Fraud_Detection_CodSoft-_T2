@@ -1,0 +1,20 @@
+Import required libraries
+Load train dataset
+Calculate age from the transaction time and the date of birth columns
+Heat map to find the correlation between the columns
+Find the month, hour, day of the week, and day from the transaction date time column
+Fraud transactions for the year 2019
+Percentage of fraud transactions
+Fraud transactions for different age groups
+Fraud transactions with respect to gender
+Fraud transactions with respect to states
+Fraud transactions with respect to the hour of the day
+Grouping and summarizing fraudulent transactions by state
+Distance between the merchant location and transaction location
+Generating CSV files
+Count of fraud transactions
+Building Model ✌
+LogisticRegression Model Implementation
+Gaussian Naive Bias Model Implementation
+Random Forest Classifier Implementation
+Decision Tree Model Implementation
